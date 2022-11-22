@@ -1,0 +1,38 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-vector/colorful-gulaal-powder-color-indian-festival-happy-holi-card-with-gold-patterned-crystals-paper-color_38689-1055.jpg?w=1060&t=st=1669030972~exp=1669031572~hmac=350c76e1c375dc296cec3d84a6bbce185d695e671927ab793a39a0c0b7a807e8");
+    background-size: cover;
+    height: 30vh;
+}
+.heading1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 110px;
+    color: white;
+    font-weight: bold;
+}
+.bgcolor{
+    background-color:#feffd1;
+    height: 80vh;
+}
+.image{
+    width: 80px;
+    height: 80px;
+}
+.one{
+    height: 145px;
+    width:150px;
+    border-radius: 15px;
+    padding: 5px;
+    background-color:aquamarine;
+    text-align: center;
+    margin: 15px;
+    
+}
+.heading2{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: bold;
+}
